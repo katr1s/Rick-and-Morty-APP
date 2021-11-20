@@ -1,6 +1,6 @@
 # Rick-and-Morty-APP
 
-Información proporcionada por la API de Rick and Morty (https://rickandmortyapi.com)
+Información proporcionada por la API de Rick and Morty ("https://rickandmortyapi.com")
 
 
 
