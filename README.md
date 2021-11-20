@@ -2,7 +2,7 @@
 
 Información proporcionada por la API de [Rick and Morty](https://rickandmortyapi.com)
 
-[mobile](https://github.com/Ismael-18/Rick-and-Morty-APP/blob/master/src/img/Mobile.png?raw=true)
+![Mobile](https://github.com/Ismael-18/Rick-and-Morty-APP/blob/master/src/img/Mobile.png?raw=true)
 
 
 
