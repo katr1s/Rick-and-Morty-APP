@@ -3,6 +3,11 @@
         width: 700px;
     }
 
+    header svg, header a{
+        width: 80px;
+        height: 80px;
+    }
+
     h1, h2{
         font-size: 50px;
     }
@@ -35,6 +40,11 @@
     header img{
         width: 450px;
     }
+
+    header svg, header a{
+        width: 70px;
+        height: 70px;
+    }
     
     h1, h2{
         font-size: 48px;
@@ -63,8 +73,14 @@
     header{
         transform: translateY(10px);
     }
+
     header img{
         width: 350px;
+    }
+
+    header svg, header a{
+        width: 60px;
+        height: 60px;
     }
     
     h1, h2{
@@ -93,6 +109,11 @@
 @media (max-width: 1000px) {
     header{
         transform: translateY(10px);
+    }
+
+    header svg, header a{
+        width: 60px;
+        height: 60px;
     }
     
     header img{
@@ -133,10 +154,6 @@
  }
 
  @media (max-width: 500px) {
-    header{
-        transform: translateY(10px);
-    }
-    
      .character, .info{
          width: 100%;
          height: 40%;
