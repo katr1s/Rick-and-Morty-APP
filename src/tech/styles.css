@@ -33,13 +33,27 @@ header, footer{
     margin: auto;
     display: flex;
     text-align: center;
-    justify-content: center;
     align-items: center;
+}
+
+header{
+    justify-content: space-between;
+}
+
+footer{
+    justify-content: center;
 }
 
 header img{
     width: 250px;
     filter: drop-shadow(0 0 5px var(--green));
+}
+
+header svg, header a{
+    width: 60px;
+    height: 60px;
+    background: var(--gray);
+    border-radius: 50%;
 }
 
 .content{
@@ -62,7 +76,7 @@ header img{
 }
 
 h1, h2{
-    max-width: 300px;
+    max-width: 90%;
     background: var(--blue);
     border-radius: 14px;
     margin: 10px 0px;
